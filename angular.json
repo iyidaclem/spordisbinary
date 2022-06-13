@@ -27,22 +27,80 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/eunoia/wp-content/plugins/bdthemes-element-pack-lite/assets/css/bdt-uikit2916.css",
+              "src/assets/eunoia/wp-content/plugins/bdthemes-element-pack-lite/assets/css/ep-helper50fa.css",
+              "src/assets/eunoia/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/prime-slider-sitef0c3.css",
+              "src/assets/eunoia/wp-includes/css/dist/block-library/style.minf049.css",
+              "src/assets/eunoia/wp-content/plugins/template-kit-export/public/assets/css/template-kit-export-public.min365c.css",
+              "src/assets/eunoia/wp-content/themes/hello-elementor/style.min0875.css",
+              "src/assets/eunoia/wp-content/themes/hello-elementor/theme.min0875.css",
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min7816.css",
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/css/frontend.min3ab2.css",
+              "src/assets/eunoia/wp-content/uploads/sites/18/elementor/css/post-3d266.css",
+              "src/assets/eunoia/wp-content/plugins/elementor-pro/assets/css/frontend.minee9a.css",
+              "src/assets/eunoia/wp-content/plugins/ooohboi-steroids-for-elementor/assets/css/mainc06f.css",
+              "src/assets/eunoia/wp-content/plugins/void-elementor-whmcs-elements/assets/css/stylef049.css",
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.minca80.css",
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min58e0.css",
+              "src/assets/eunoia/wp-content/uploads/sites/18/elementor/css/post-13818ffb.css",
+              "src/assets/eunoia/wp-content/uploads/sites/18/elementor/css/post-719ccb9.css",
+              "src/assets/eunoia/wp-content/uploads/sites/18/elementor/css/post-729ccb9.css",
+              "src/assets/eunoia/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticonsc141.css",
+              "src/assets/eunoia/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-stylesc141.css",
+              "src/assets/eunoia/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsivec141.css",
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css",
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css",
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css",
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/lib/animations/animations.min3ab2.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/js/frontendconfig.js",
+              "src/assets/eunoia/wp-includes/js/jquery/jquery.minaf6c.js",
+              "src/assets/eunoia/wp-includes/js/jquery/jquery-migrate.mind617.js",
+              "src/assets/eunoia/wp-content/plugins/template-kit-export/public/assets/js/template-kit-export-public.min365c.js",
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min58e0.js",
+              "src/assets/eunoia/wp-content/plugins/ooohboi-steroids-for-elementor/assets/js/ooohboi-steroids-min2165.js",
+              "src/assets/eunoia/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-scriptc141.js",
+              "src/assets/eunoia/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scriptsc141.js",
+              "src/assets/eunoia/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.minf269.js",
+              "src/assets/eunoia/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min3f90.js",
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min3958.js",
+              "src/assets/eunoia/wp-includes/js/imagesloaded.mineda1.js",
+              "src/assets/eunoia/wp-content/plugins/bdthemes-element-pack-lite/assets/js/bdt-uikit.min2916.js",
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/js/webpack.runtime.min3ab2.js",
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/js/frontend-modules.min3ab2.js",
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js",
+              "src/assets/eunoia/wp-includes/js/jquery/ui/core.min0028.js",
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/lib/swiper/swiper.min48f5.js",
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/lib/share-link/share-link.min3ab2.js",
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/lib/dialog/dialog.mind227.js",
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/js/frontend.min3ab2.js",
+              "src/assets/eunoia/wp-content/plugins/bdthemes-element-pack-lite/assets/js/common/helper.min50fa.js",
+              "src/assets/eunoia/wp-content/plugins/bdthemes-prime-slider-lite/assets/js/prime-slider-site.minf0c3.js",
+              "src/assets/eunoia/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.minee9a.js",
+              "src/assets/eunoia/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.minee9a.js",
+              "src/assets/eunoia/wp-content/plugins/elementor-pro/assets/js/frontend.minee9a.js",
+              "src/assets/eunoia/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.minee9a.js",
+              "src/assets/eunoia/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circlec141.js",
+              "src/assets/eunoia/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementorc141.js",
+              "src/assets/eunoia/wp-content/plugins/elementor/assets/js/preloaded-modules.min3ab2.js"
+
+
+            ]
           },
           "configurations": {
             "production": {
               "budgets": [
                 {
                   "type": "initial",
-                  "maximumWarning": "500kb",
-                  "maximumError": "1mb"
+                  "maximumWarning": "7mb",
+                  "maximumError": "7mb"
                 },
                 {
                   "type": "anyComponentStyle",
-                  "maximumWarning": "2kb",
-                  "maximumError": "4kb"
+                  "maximumWarning": "7mb",
+                  "maximumError": "7mb"
                 }
               ],
               "fileReplacements": [
