@@ -5,7 +5,11 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { HomeComponent } from './home/home.component';
-import { AboutusComponent } from './aboutus/aboutus.component';
+import { AppRoutingModule } from './app-routing.module';
+import { AboutComponent } from './about/about.component';
+import { TeamComponent } from './team/team.component';
+import { ServiceComponent } from './service/service.component';
+import { ContactComponent } from './contact/contact.component';
 
 @NgModule({
   declarations: [
@@ -13,9 +17,14 @@ import { AboutusComponent } from './aboutus/aboutus.component';
     HeaderComponent,
     FooterComponent,
     HomeComponent,
-    AboutusComponent
+    AboutComponent,
+    TeamComponent,
+    ServiceComponent,
+    ContactComponent
   ],
   imports: [
+    BrowserModule,
+    AppRoutingModule,
     BrowserModule
   ],
   providers: [],
