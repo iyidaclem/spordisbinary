@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { PreloaderService } from '../myservice/preloader.service';
 
 @Component({
   selector: 'app-header',
@@ -7,9 +8,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
 
-  constructor() { }
+  showloader = true;
+  constructor(
+    private myservice:PreloaderService
+  ) { }
 
   ngOnInit(): void {
+    setTimeout(()=>{
+      this.showloader = false;
+    },1000)
   }
 
 }
